@@ -28,4 +28,9 @@ These sheets cover various mental health indicators, including prevalence rates,
 3. **`2.Global Trends in Mental Health Disorders.ipynb`:**
     - Jupyter Notebook file containing advanced analysis steps, including Correlation Analysis, Predictive Modeling, Feature Importance, Cluster Analysis, and Temporal Forecasting.
 
+4.  **`Interactive Dashboard`:**
+    - This file contains an interactive dashboard allowing users to explore the data dynamically. It summarizes key insights gained from the analysis and provides recommendations for mental health interventions or further research based on the findings.
+      
+This file contains an interactive dashboard allowing users to explore the data dynamically. It summarizes key insights gained from the analysis and provides recommendations for mental health interventions or further research based on the findings.
+
 This comprehensive project aims to contribute meaningful insights to the understanding of global trends in mental health disorders, utilizing a rich dataset encompassing diverse mental health indicators. The combination of exploratory data analysis, predictive modeling, and visualization techniques will enable a holistic examination of the dataset, fostering a data-driven approach to mental health research and intervention strategies. The original dataset and blog post can be found at [Our World in Data](https://ourworldindata.org/mental-health#all-charts-preview).
