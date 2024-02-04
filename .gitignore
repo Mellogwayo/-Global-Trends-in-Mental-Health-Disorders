@@ -1,0 +1,13 @@
+# Ignore system-generated files
+.DS_Store
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore specific checkpoint files
+2.Global Trends in Mental Health Disorders-checkpoint.ipynb
+1.Global Trends in Mental Health Disorders-checkpoint.ipynb
+Global Trends in Mental Health Disorders-Copy1-checkpoint.ipynb
+
+# Ignore temporary Excel file
+~$Mental health Depression disorder Data.xlsx
